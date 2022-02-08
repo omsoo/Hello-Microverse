@@ -1,2 +1,4 @@
 #Specific files to ignore
 *.md
+test.md
+/node_modules
