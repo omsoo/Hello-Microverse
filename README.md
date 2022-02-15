@@ -17,6 +17,7 @@ https://github.com/omsoo/
 Follow these simple steps to get a local copy up and running.
 
 #Prerequisites
+
 a. Knowledge of HTML and CSS
 b. Code editor
 c. An updated browser
