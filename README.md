@@ -1,6 +1,5 @@
 #Hello Microverse
-
-The project is still in the works, but when completed, it will tell my story, skills, experience, and work history. Constructive feedback is encouraged.
+This is the first project created to check for .gitignore and the linters error check and confirmation. And also to create and add 3 files in a separate commit.
 
 #Built With
 
@@ -23,7 +22,7 @@ c. An updated browser
 
 #Setup
 
-You just need to clone the project to your local machine and run the files using your editor. In this branch (mobile-website-section) I tried to make a responsive view for a portfolio website and completed the Work/Experience session and also layed out the About session view.
+You just need to clone the project to your local machine and run the files using your editor.
 
 #Installation
 
